@@ -1,0 +1,9 @@
+{
+  "name": "agora-token-server",
+  "version": "1.0.0",
+  "description": "Agora RTC Token Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
